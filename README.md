@@ -1,1 +1,1 @@
-# cs5862.github.io
+# Image Processing and Dotted Line Detection
